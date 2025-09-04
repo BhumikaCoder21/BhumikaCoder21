@@ -11,14 +11,6 @@ A passionate Software Developer from India
 
 ---
 
-### 📌 Projects
-- [RideSure – College Ride Sharing Platform](https://github.com/BhumikaCoder21/share-ride)  
-- [Darpan CCTV – CCTV Store Website](https://github.com/BhumikaCoder21/cctvStore)  
-- [Weather Application](https://github.com/BhumikaCoder21/Weather-App)  
-- [MyOnlineMeal – Food Delivery Website](https://github.com/BhumikaCoder21/food-delivery)  
-
----
-
 ### 🤝 Open To Collaborate on Open Source Projects!
 
 ### 📫 Connect with me on
